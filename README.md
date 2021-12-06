@@ -18,6 +18,11 @@ Technologies:
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="20">
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="20">
 
+Tools:
+- <img src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE_400x400.jpg" width="20">
+- <img src="https://helpx.adobe.com/content/dam/help/en/xd/get-started/jcr_content/main-pars/step_with_text/step-with-text-pars/imageandtext/imageandtextimage/XD.png" width="20">
+
+
 <!---
 ogunsacar/ogunsacar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
