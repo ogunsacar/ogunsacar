@@ -6,9 +6,9 @@
 
 Contact with me 📫
 
-Instagram: https://www.instagram.com/ogunsacar
-Linkedin: https://www.linkedin.com/in/ogunsacar
-Discord: Ogün#4448
+- Instagram: https://www.instagram.com/ogunsacar 
+- Linkedin: https://www.linkedin.com/in/ogunsacar
+- Discord: Ogün#4448
 
 
 <!---
